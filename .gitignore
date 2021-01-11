@@ -1,0 +1,6 @@
+.idea
+*.pyc
+Cat_Dog_data
+terrain_data
+terrain.py
+best_model_terrain.pt
